@@ -1,7 +1,8 @@
 node_modules/
 .next/
-.env
-*.log
 tsconfig.tsbuildinfo
+.env
+.env.*
+*.log
 artcheck/
 public/artcheck/
