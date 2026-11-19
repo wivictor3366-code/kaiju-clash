@@ -1,0 +1,7 @@
+node_modules/
+.next/
+.env
+*.log
+tsconfig.tsbuildinfo
+artcheck/
+public/artcheck/
